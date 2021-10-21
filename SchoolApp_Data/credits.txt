@@ -1,0 +1,27 @@
+Eine Datenschutzerklärung beschreibt, wie Daten (insbesondere personenbezogene Daten) von einer Organisation verarbeitet werden, das heißt, wie diese Daten gesammelt, genutzt und ob sie an Dritte weitergegeben werden. Darüber hinaus wird oft beschrieben, welche Maßnahmen die Organisation ergreift, um die Privatsphäre ihres Kunden oder Nutzers zu wahren.
+
+In vielen Staaten gibt es eine gesetzliche Pflicht, Datenschutzerklärungen vorzuhalten. Außerdem haben private Organisationen wie das Platform for Privacy Preferences Project oder die Internet Content Rating Association eigene Standards für Datenschutzerklärungen festgelegt.
+
+Eine Datenschutzerklärung ist von einer datenschutzrechtlichen Einwilligung zu unterscheiden. Bei einer Datenschutzerklärung erläutert der Verantwortliche den Betroffenen, ob und wie er ihre Daten verarbeitet. Eine Einwilligung dient dagegen der Rechtfertigung einer Datenverarbeitung, die das Gesetz sonst nicht erlaubt, zum Beispiel die Zusendung von Werbe-E-Mails.
+Inhaltsverzeichnis
+
+    1 Rechtslage in der Europäischen Union
+        1.1 Rechtslage in Deutschland
+    2 Weblinks
+    3 Einzelnachweise
+
+Rechtslage in der Europäischen Union
+→ Hauptartikel: Datenschutzerklärung (Datenschutz-Grundverordnung)
+
+In der Europäischen Union muss jeder, der personenbezogene Daten als Verantwortlicher verarbeitet, die Betroffenen nach den Art. 13 und 14 der Datenschutz-Grundverordnung über bestimmte Aspekte der Datenverarbeitung informieren.
+Rechtslage in Deutschland
+
+Neben der genannten Vorschrift in der Datenschutz-Grundverordnung gibt es weitergehende Pflichten zum Vorhalten einer Datenschutzerklärung im Recht einzelner Mitgliedsstaaten, so in Deutschland für Anbieter von Telemedien (wie zum Beispiel Websites) in § 13 Abs. 1 Telemediengesetz.
+
+Nutzer von Telemedien müssen danach „zu Beginn des Nutzungsvorgangs“ „in allgemein verständlicher Form“ „über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten“ informiert werden, insbesondere ob eine Datenverarbeitung in Ländern außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums stattfindet.
+
+Gegebenenfalls müssen Anbieter in diesem Zusammenhang gemäß § 15 Abs. 3 TMG Nutzer darauf hinweisen, dass diese der Bildung von pseudonymen Nutzungsprofilen (Webtracking) widersprechen können. Der Nutzer ist schließlich über die Möglichkeit zu informieren, das Online-Angebot anonym oder unter Pseudonym nutzen zu können (§ 13 Abs. 6 Satz 2 TMG).
+
+Fehlt die Datenschutzerklärung auf einer Website, stellt das einen abmahnbaren wettbewerbsrechtlichen Verstoß dar.[1]
+
+Die Einbindung der Datenschutzerklärung auf einer Website muss zwingend unter einem eigenen Menüpunkt, getrennt vom Impressum, erfolgen (zum Beispiel „Datenschutz“ oder „Datenschutzerklärung“). 
