@@ -1,7 +1,9 @@
 {
-    "calendarEventsDone": [
-        "9vbrn48s8rhukoljtsvgunkstc",
-        "hkhhc9n1sd9fd8jqdondkqj9es"
-    ],
-    "calendarRefreshTimeSpan": 5
+    "calendarEventsDone": [],
+    "calendarRefreshTimeSpan": 5,
+    "showYesterday": false,
+    "showToday": true,
+    "compactMode": false,
+    "maxDays": 355,
+    "maxEvents": 50
 }
