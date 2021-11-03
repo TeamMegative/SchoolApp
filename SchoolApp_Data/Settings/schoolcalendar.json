@@ -4,6 +4,6 @@
     "showYesterday": false,
     "showToday": true,
     "compactMode": false,
-    "maxDays": 355,
+    "maxDays": 337,
     "maxEvents": 50
 }

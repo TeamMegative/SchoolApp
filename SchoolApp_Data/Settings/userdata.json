@@ -1,10 +1,10 @@
 {
     "username": "DoHoeniii",
     "id": "211102-18044581",
-    "permissionState": 0,
+    "permissionState": 2,
     "appearance": 0,
     "klasse": "",
     "language": 0,
     "fullScreen": false,
-    "autoStart": false
+    "autoStart": true
 }
