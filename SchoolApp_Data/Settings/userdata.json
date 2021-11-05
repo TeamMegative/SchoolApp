@@ -4,6 +4,6 @@
     "appearance": 0,
     "klasse": "10a",
     "language": 1,
-    "fullScreen": false,
+    "fullScreen": true,
     "autoStart": true
 }
