@@ -1,0 +1,13 @@
+{
+    "calendarEventsDone": [
+        "4hfm154g8ish2t0vq1hsougvvg",
+        "rfcf8d751litmeev9ggfhsq4vo",
+        "7skb53vu5c0ieossuf6j8943s0"
+    ],
+    "calendarRefreshTimeSpan": 5,
+    "showYesterday": true,
+    "showToday": true,
+    "compactMode": false,
+    "maxDays": 30,
+    "maxEvents": 50
+}
