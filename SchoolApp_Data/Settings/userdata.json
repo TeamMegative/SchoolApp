@@ -1,9 +1,10 @@
 {
-    "username": "TT ruft HH",
+    "username": "Dh",
     "permissionState": 2,
     "appearance": 0,
     "klasse": "",
-    "language": 0,
-    "fullScreen": false,
-    "autoStart": true
+    "language": 1,
+    "fullScreen": true,
+    "autoStart": true,
+    "zoom": 70.0
 }
