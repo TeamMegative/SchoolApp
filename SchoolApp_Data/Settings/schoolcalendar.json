@@ -1,9 +1,0 @@
-{
-    "calendarEventsDone": [],
-    "calendarRefreshTimeSpan": 60,
-    "showYesterday": false,
-    "showToday": false,
-    "compactMode": false,
-    "maxDays": 365,
-    "maxEvents": 100
-}
